@@ -1,0 +1,13 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "Simple express app",
+  "main": "index.js",
+  "repository": "git@github.com:fallofElil/mevn-social-network-back.git",
+  "author": "Ilya Kiyanov <ikiyanov@protonmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
